@@ -7,17 +7,17 @@ const Footer = () => {
       <div className={styles.header}>
         <p>
           Copyright © 2025. Designed By{" "}
-          <a href="https://www.linkedin.com/in/somanath07/">Somanath Barik</a>
+          <a href="https://www.linkedin.com/in/jyotismita-das-67669229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Jyotismita Das</a>
         </p>
       </div>
       <div className={styles.handles}>
         <a href="www.instagram.com">
           <Instagram color="black" size={30} />
         </a>
-        <a href="https://github.com/somanath27">
+        <a href="https://github.com/jubuli">
           <Github color="black" size={30} />
         </a>
-        <a href="https://www.linkedin.com/in/somanath07/">
+        <a href="https://www.linkedin.com/in/jyotismita-das-67669229a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
           <Linkedin color="black" size={30} />
         </a>
       </div>
